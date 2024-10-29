@@ -1,2 +1,2 @@
 # Leonard.mdhluli.io
-Leonard-portfolio
+Leonard-portfolio-website
