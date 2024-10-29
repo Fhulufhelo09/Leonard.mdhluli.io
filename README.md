@@ -1,2 +1,2 @@
 # Leonard.mdhluli.io
-my-portfolio
+Leonard-portfolio
